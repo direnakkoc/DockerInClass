@@ -1,22 +1,15 @@
-# java-application
 
-This is the Java application used in the DevOps Diploma @ CCT College.
 
-## Quickstart 
+# Quick start
+## Node Application
 
-No configuration. In order to run the app we have 2 options:
-```
-./gradlew bootRun
-```
 
-This will start the server.
+<p align="center">
+    <img src="https://github.com/direnakkocdemir/DockerInClass/blob/main/images/node-app.png" alt="node-app Docker image">
+</p>
 
-If we want to generate a fat-jar first, execute:
-```
-./gradlew bootJar
-```
 
-Then, to run the jar:
-```
-java -jar build/libs/java-application-0.0.1-SNAPSHOT.jar
-```
+## Python Application
+
+
+##Java Application
