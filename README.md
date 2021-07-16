@@ -9,3 +9,21 @@ image). Use public repositories
 <p align="center">
     <img src="https://github.com/direnakkocdemir/DockerInClass/blob/main/images/node-app.png" alt="node-app Docker image">
 </p>
+
+When you want pull and run the image on your will run the command below
+
+```
+ docker run -p 3000:3000 direnakkoc/node-app
+```
+
+## Python Application
+
+<p align="center">
+    <img src="https://github.com/direnakkocdemir/DockerInClass/blob/main/images/python-app.png" alt="python-app Docker image">
+</p>
+
+When you want pull and run the image on your will run the command below
+
+```
+ docker run -p 5000:5000 direnakkoc/python-app
+```
