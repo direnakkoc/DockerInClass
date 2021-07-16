@@ -1,8 +1,6 @@
-The purpose of these basic java, node and python project is to build a Docker image for each of the applications. Once it is done, create an
-account on https://hub.docker.com and push the images there (one repository per
-image). Use public repositories.
+The purpose of these basic projects of java, node, and python is to build a Docker image for each of the applications. Once it is done, create an account on https://hub.docker.com and push the images there (one repository per image). Use public repositories.
 
-# :fire: Quick start
+# Quick start  <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>  
 
 
 ## Java Application
