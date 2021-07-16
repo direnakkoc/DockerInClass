@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pre-requisites
 - Python 3.6+
 - Flask (any version)
@@ -27,3 +28,6 @@ Once you are running your application (se above section) browse to:
 ```
 http://localhost:5000/
 ```
+=======
+# DockerInClass
+>>>>>>> 9eccf320a390f06bde858faeef5bf4fcfad89def
